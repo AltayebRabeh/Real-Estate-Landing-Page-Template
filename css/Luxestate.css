@@ -1086,7 +1086,7 @@ footer .top .subscribe form {
 footer .top .subscribe form input {
     height: 100%;
     outline: none;
-    flex: 1 1 auto;
+    width: calc(100%-80px);
     border: none;
     padding: 10px 20px;
     caret-color: var(--font-color);
